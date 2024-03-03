@@ -10,7 +10,7 @@
 
  let precioFinal: number = precio * 0.9 ;
 
- console.log("El precio del producto con descuento es: " + precioFinal);
+ console.log("El precio del producto con descuento es de: " + precioFinal);
 
 
  
